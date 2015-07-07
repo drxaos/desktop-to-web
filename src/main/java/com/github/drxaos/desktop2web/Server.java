@@ -1,3 +1,5 @@
+package com.github.drxaos.desktop2web;
+
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
 import io.vertx.core.buffer.Buffer;
